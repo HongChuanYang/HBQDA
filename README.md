@@ -1,5 +1,5 @@
 # HBQDA
-The code and dataset of Explainable Sentiment Analysis on Stock Market: A Hierarchical BERT Model with Query-Driven Dual Attention
+The model code of Explainable Sentiment Analysis on Stock Market: A Hierarchical BERT Model with Query-Driven Dual Attention
 
 # BERT
 Since the pytorch-pretrained-BERT is too large to upload, it can be download by [huggingface](https://github.com/huggingface/transformers).
